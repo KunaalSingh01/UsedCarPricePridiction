@@ -25,4 +25,10 @@ This repository contains the source code for a car price prediction application.
 3. Preparing Test Data
 4. Building Model
 
+## Author
+Kunaal Kaushal Singh -11022210021
+Devansh Vats -11022210023
+Tanya Gambhir -11022210003
+Rishi Raj -11022210004
+
 ### For More Details  refer to [Training Process](training_process.md) 
